@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Purpose
+
+School project DevMobile : Make an app with geolocation of the user and other connected users, a way to see the profil of an other user and start a chat with him.
+
+# Authors
+
+Maxence DUBUCHE
+Gauthier LECOUFFE
