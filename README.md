@@ -21,4 +21,5 @@ School project DevMobile : Make an app with geolocation of the user and other co
 
 # Authors
 
-Maxence DUBUCHE  Gauthier LECOUFFE
+Maxence DUBUCHE  
+Gauthier LECOUFFE
