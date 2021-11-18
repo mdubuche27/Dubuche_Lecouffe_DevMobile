@@ -1,8 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.dubuche_lecouffe_devmobile">
+
    <application
         android:label="dubuche_lecouffe_devmobile"
         android:icon="@mipmap/ic_launcher">
+       <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCLWTWQoNB_oT-xmRVKErmr2uj3-q6AUoM"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
