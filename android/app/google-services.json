@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20643905218",
+    "project_id": "dubuche-lecouffe-devmobile",
+    "storage_bucket": "dubuche-lecouffe-devmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20643905218:android:d07abff8d5ea81054ec55b",
+        "android_client_info": {
+          "package_name": "com.dubuche_lecouffe.devmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20643905218-r5l72tj1h4fsq8duocf2tgo71jtjt2jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJ55uCtys_U96YxBtnNVg_JtSZxkzQuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20643905218-r5l72tj1h4fsq8duocf2tgo71jtjt2jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
